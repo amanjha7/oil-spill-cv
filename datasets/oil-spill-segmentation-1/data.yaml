@@ -1,0 +1,14 @@
+names:
+- rainbow
+- sheen
+- truecolor
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: oil-spill-segmentation-h4y1a
+  url: https://universe.roboflow.com/aman-ays81/oil-spill-segmentation-h4y1a/dataset/1
+  version: 1
+  workspace: aman-ays81
+test: ../test/images
+train: ../train/images
+val: ../valid/images
